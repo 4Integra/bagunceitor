@@ -2,6 +2,8 @@
 
 Projeto em C para aplicar distorções **reversíveis** a imagens RGB, preservando a possibilidade de recuperar com exatidão os valores dos pixels.
 
+Vídeo demonstração: https://youtu.be/rArd_4Mh7iQ
+
 ## Efeitos
 
 - **Cor:** Efeito de posterização neon. XOR no canal vermelho, soma modular no verde e troca dos canais vermelho e azul.
